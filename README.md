@@ -135,7 +135,6 @@ Você também pode testar a API diretamente com ferramentas como **Postman** ou 
 - 🚀 **Dockerizar os serviços** para execução simplificada
 
 
-
 --
 
 Pedro Caniato
