@@ -79,7 +79,7 @@ A ideia é fornecer uma **base sólida** para desenvolvimento **fullstack**, con
 git clone https://github.com/pedrocaniato/simple-fullstack-application.git
 cd simple-fullstack-application
 
-2️⃣ Configurar o Banco de Dados
+#### 2️⃣ Configurar o Banco de Dados
 
 Crie um banco no PostgreSQL (exemplo):
 
@@ -90,7 +90,7 @@ Atualize as credenciais no arquivo:
 
 backend/ormconfig.json
 
-3️⃣ Rodar o Backend
+#### 3️⃣ Rodar o Backend
 cd backend
 npm install
 npm run start:dev
@@ -100,7 +100,7 @@ Servidor rodando em:
 
 http://localhost:3334
 
-4️⃣ Rodar o Frontend
+#### 4️⃣ Rodar o Frontend
 cd ../frontend
 npm install
 npm run dev
@@ -140,9 +140,3 @@ Pedro Caniato
 🔗 github.com/pedrocaniato
 
 
-
-
-
-
-│
-└── README.md
