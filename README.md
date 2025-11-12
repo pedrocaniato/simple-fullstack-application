@@ -75,40 +75,47 @@ A ideia é fornecer uma **base sólida** para desenvolvimento **fullstack**, con
 ### Passo a passo
 
 #### 1️⃣ Clonar o repositório
-```bash
+
 git clone https://github.com/pedrocaniato/simple-fullstack-application.git
 cd simple-fullstack-application
+
 
 #### 2️⃣ Configurar o Banco de Dados
 
 Crie um banco no PostgreSQL (exemplo):
 
+```bash
 CREATE DATABASE products_db;
-
+```
 
 Atualize as credenciais no arquivo:
 
 backend/ormconfig.json
 
 #### 3️⃣ Rodar o Backend
+```bash
 cd backend
 npm install
 npm run start:dev
-
+```
 
 Servidor rodando em:
 
+```bash
 http://localhost:3334
-
+```
 #### 4️⃣ Rodar o Frontend
+```bash
 cd ../frontend
 npm install
 npm run dev
-
+```
 
 Aplicação acessível em:
-
+```bash
 http://localhost:3000
+```
+
 
 🧪 Teste Rápido
 
