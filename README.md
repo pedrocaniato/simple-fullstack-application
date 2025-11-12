@@ -117,29 +117,26 @@ http://localhost:3000
 ```
 
 
-🧪 Teste Rápido
+## 🧪 Teste Rápido
 
-Acesse o frontend e:
+Acesse o frontend e adicione um novo produto pelo formulário.  
+Verifique se ele aparece na listagem.  
 
-Adicione um novo produto pelo formulário.
+Você também pode testar a API diretamente com ferramentas como **Postman** ou **Insomnia**.
 
-Verifique se ele aparece na listagem.
+---
 
-Você também pode testar a API diretamente com ferramentas como Postman ou Insomnia.
+## 🧭 Próximos Passos (Sugestões)
 
-🧭 Próximos Passos (Sugestões)
+- 🔐 **Adicionar autenticação** (JWT ou OAuth)  
+- 🛠️ **Implementar atualização e exclusão** de produtos  
+- 📊 **Adicionar paginação e busca**  
+- 🧰 **Criar testes unitários e de integração**  
+- 🚀 **Dockerizar os serviços** para execução simplificada
 
-🔐 Adicionar autenticação (JWT ou OAuth)
 
-🛠️ Implementar atualização e exclusão de produtos
 
-📊 Adicionar paginação e busca
-
-🧰 Criar testes unitários e de integração
-
-🚀 Dockerizar os serviços para execução simplificada
-
-👨‍💻 Autor
+--
 
 Pedro Caniato
 📧 pedrolucascaniato@gmail.com
